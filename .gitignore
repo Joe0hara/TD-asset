@@ -1,5 +1,7 @@
 .DS_Store
 
+*\.toe
+
 TDImportCache
 
 ## Exclude TouchDesigner Backup files
